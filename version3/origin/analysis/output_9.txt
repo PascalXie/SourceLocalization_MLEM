@@ -1,0 +1,16 @@
+sourceID ; 0  ; intensity ; 1.02321e+06 ; x ; 50 ; y ; 100 ; z ; 500
+sourceID ; 1  ; intensity ; 3949.78 ; x ; 150 ; y ; 100 ; z ; 500
+sourceID ; 2  ; intensity ; 210309 ; x ; 250 ; y ; 100 ; z ; 500
+sourceID ; 3  ; intensity ; 939223 ; x ; 350 ; y ; 100 ; z ; 500
+sourceID ; 4  ; intensity ; 3839.39 ; x ; 50 ; y ; 300 ; z ; 500
+sourceID ; 5  ; intensity ; 9933.21 ; x ; 150 ; y ; 300 ; z ; 500
+sourceID ; 6  ; intensity ; 26396.6 ; x ; 250 ; y ; 300 ; z ; 500
+sourceID ; 7  ; intensity ; 51956.6 ; x ; 350 ; y ; 300 ; z ; 500
+sourceID ; 8  ; intensity ; 28960.8 ; x ; 50 ; y ; 500 ; z ; 500
+sourceID ; 9  ; intensity ; 31373 ; x ; 150 ; y ; 500 ; z ; 500
+sourceID ; 10  ; intensity ; 34921.6 ; x ; 250 ; y ; 500 ; z ; 500
+sourceID ; 11  ; intensity ; 38435.1 ; x ; 350 ; y ; 500 ; z ; 500
+sourceID ; 12  ; intensity ; 57014.8 ; x ; 50 ; y ; 700 ; z ; 500
+sourceID ; 13  ; intensity ; 31701.9 ; x ; 150 ; y ; 700 ; z ; 500
+sourceID ; 14  ; intensity ; 29704 ; x ; 250 ; y ; 700 ; z ; 500
+sourceID ; 15  ; intensity ; 27513.4 ; x ; 350 ; y ; 700 ; z ; 500
